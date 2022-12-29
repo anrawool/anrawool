@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anrawool
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning Neural Networks
 
 <!---
 anrawool/anrawool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
