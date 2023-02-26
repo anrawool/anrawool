@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anrawool
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Neural Networks and Data Science
 - 🌱 I’m currently learning Neural Networks
 
 <!---
